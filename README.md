@@ -2,7 +2,7 @@
 
 Analyze customer behavior and content by using the datasets started_streams.csv and whatson.csv files
 
-Download the datasets to your local folder.
+Download the datasets(Assignment_Cuelebre.zip) and unzip to your local folder.
 
 
 # Overview
